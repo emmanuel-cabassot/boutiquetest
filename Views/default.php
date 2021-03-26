@@ -137,6 +137,9 @@
                             </li>
                         <?php else : ?>
                             <li class="nav-item ml-3">
+                                <a class="nav-link" href="<?= ACCUEIL ?>creer/index">Créer sa boutique</a>
+                            </li>
+                            <li class="nav-item ml-3">
                                 <a class="nav-link" href="<?= ACCUEIL ?>user/register">Inscription</a>
                             </li>
                             <li class="nav-item ml-3 mr-3">
